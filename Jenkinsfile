@@ -11,7 +11,7 @@ node {
     {
         script{
             git branch: "main", 
-                url: 'https://github.com/muratdemiray/jenkins-pipeline-load-devops.git'            
+                url: 'https://github.com/claudio-bianco/load-devops.git'            
         }
     }
     
